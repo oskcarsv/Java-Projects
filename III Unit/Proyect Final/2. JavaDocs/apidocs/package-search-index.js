@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.oscarmorales.controlador"},{"l":"org.oscarmorales.modelo"},{"l":"org.oscarmorales.sistema"},{"l":"org.oscarmorales.vista"}];updateSearchResults();
